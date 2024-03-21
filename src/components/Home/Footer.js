@@ -25,9 +25,9 @@ const Footer = () => {
       title: 'Company',
       keyPoints: [
         'Email:',
-        'aizaz9790@gmail.com.com',
+        'mw8673560@gmail.com',
         'Phone:',
-        '+92 316 512 6009'
+        '+92 313 548 9204'
       ]
     }
   ];
